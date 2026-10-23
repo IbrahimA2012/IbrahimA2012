@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ibrahim Alasmar
 
-<!--
-**IbrahimA2012/IbrahimA2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Software Engineer** working with Embedded C and AVR microcontrollers.
 
-Here are some ideas to get you started:
+I build small, practical firmware projects and explore core C programming concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+- [ATmega32 Timer2 Button and LED Demo](https://github.com/IbrahimA2012/atmega32-timer2-button-led) — a non-blocking GPIO example with a 1 ms Timer2 tick and software button debouncing.
+
+## Selected work
+
+- [Smart Irrigation System using ATmega32](https://github.com/IbrahimA2012/Smart-irrigation-system-using-ATMEGA32)
+- [C Data Structure Implementations](https://github.com/IbrahimA2012/Data-Structure-implementation)
+- [Array Stack Data Structure](https://github.com/IbrahimA2012/ArrayStack-Data-Structure)
