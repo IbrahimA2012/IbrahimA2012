@@ -14,3 +14,8 @@ I build embedded firmware projects and explore real-time scheduling, peripheral 
 - [Smart Irrigation System using ATmega32](https://github.com/IbrahimA2012/Smart-irrigation-system-using-ATMEGA32)
 - [C Data Structure Implementations](https://github.com/IbrahimA2012/Data-Structure-implementation)
 - [Array Stack Data Structure](https://github.com/IbrahimA2012/ArrayStack-Data-Structure)
+
+## Contact
+
+
+[LinkedIn](https://www.linkedin.com/in/ibrahim-alasmar-9930691b6/) · [ibrahimalasmar25@gmail.com](mailto:ibrahimalasmar25@gmail.com)
